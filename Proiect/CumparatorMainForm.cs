@@ -92,7 +92,7 @@ namespace Proiect
 
                 if (string.IsNullOrEmpty(numeCumparator))
                 {
-                    MessageBox.Show("Introduceți numele cumpărătorului.");
+                    MessageBox.Show("Introduceti numele cumpărătorului.");
                     return;
                 }
                 
