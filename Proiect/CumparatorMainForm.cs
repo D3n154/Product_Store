@@ -107,7 +107,7 @@ namespace Proiect
             }
             else
             {
-                MessageBox.Show("Selectati un produs din listă.");
+                MessageBox.Show("Selectati un produs din lista.");
             }
 
             txtNumeCump.Text = string.Empty;
