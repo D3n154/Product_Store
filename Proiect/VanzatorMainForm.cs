@@ -260,7 +260,7 @@ namespace Proiect
             }
             else
             {
-                MessageBox.Show("Selectați o oferta din listă.");
+                MessageBox.Show("Selectați o oferta din lista.");
             }
 
             listBoxOferte.Items.RemoveAt(listBoxOferte.SelectedIndex);
